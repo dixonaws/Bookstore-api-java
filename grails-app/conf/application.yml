@@ -2,7 +2,7 @@
 grails:
     profile: web
     codegen:
-        defaultPackage: bookstore-api-spring
+        defaultPackage: bookstore-api-java
     gorm:
         reactor:
             # Whether to translate GORM events into Reactor events
